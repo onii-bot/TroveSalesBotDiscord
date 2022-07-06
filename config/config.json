@@ -4,6 +4,7 @@
     "discord_token": "discord_bot_token"
   },
   "channel_id" : 839893932398923,
+  "collection" : "contract_address",
   "tweet_text": "[-n] #[-t] \nSold for\n[-f]\n[-p]\n\n[-l]\n\n#smulips #trovebytreasure",
   "fiat_currency": "USD",
   "TPS": 2,
